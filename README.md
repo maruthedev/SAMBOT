@@ -1,3 +1,3 @@
 # SAMBOT
 talking bot with simsimi api
-(discordjs bản mới nhưng api trả lời ngu :clown:)
+(Recently I do not update this bot because of connecting problem with https://simsimi.net/)
